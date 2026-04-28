@@ -65,7 +65,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/yourusername/drosingddos.git
-cd drosingddos
+git clone https://github.com/XvynixDenix/Drosingddos
+cd Drosingddos
 pip install requests
-python drosing.py
+python goodrosing.py
